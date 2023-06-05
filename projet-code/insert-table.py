@@ -5,7 +5,7 @@ conn = psycopg2.connect(
     host="localhost", #host name 
     port=54327,   #insert  port 
     database="csi4142",  #insert your database 
-    user="othnieltiendrbeogo", #insert your username 
+    user="", #insert your username 
     password=""
 )
 
